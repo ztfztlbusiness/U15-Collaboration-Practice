@@ -14,3 +14,4 @@ elif temperature < 10:
     print("It's cold outside!")
 else:
     print("The weather is mild.")
+i edit this one
